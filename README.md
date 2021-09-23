@@ -10,7 +10,7 @@ This project is a multi-section landing page, with a dynamically updating naviga
 
 
 ## Demo Preview
-![Alt Text](file:///D:/Profile-20210923T040505.gif)
+![Alt Text](https://github.com/ahmed-ashraf-eg/landing-page/blob/b7a4302777ad3ec9d81e7b730e5c4d7dbe246016/preview.gif)
 
 ## Features
 - The landing page is responsive & all features are usable across modern desktop, tablet, and phone browsers.
